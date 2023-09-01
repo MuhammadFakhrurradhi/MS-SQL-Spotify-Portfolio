@@ -10,7 +10,7 @@ This dataset contains Spotify tracks spanning across 125 diverse genres. Each tr
 #####################################################################################################
 
 
-To follow the approaching steps were taken to finishing the project can be found in this following [link]([https://muhammadfakhrurradhi.notion.site/SPOTIFY-Project-Walkthrough-0bc7f43052ea41678cd0dc97430d6064?pvs=4]).
+To follow the approaching steps were taken to finishing the project can be found in this following [link](https://muhammadfakhrurradhi.notion.site/SPOTIFY-Project-Walkthrough-0bc7f43052ea41678cd0dc97430d6064?pvs=4).
 
 
 **Spotify Exploratory Analysis**
